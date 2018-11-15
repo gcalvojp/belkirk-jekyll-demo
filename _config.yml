@@ -31,3 +31,25 @@ gems:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+menus:
+  footer:
+    - title: Foo1
+      url: '//foo.com'
+    - title: Bar1
+      url: '//bar.com'
+  navigation:
+    - title: Foo2
+      target: true
+      url: '//foo.com'
+      children:
+      - title: Foo3
+        url: '//foo.com'
+        children:
+        - title: Foo4
+          url: '//foo.com'
+        - title: Bar4
+          url: '//bar.com'
+      - title: Bar3
+        url: '//bar.com'
+    - title: Bar2
+      url: '//bar.com'
