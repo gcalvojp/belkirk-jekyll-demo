@@ -6,7 +6,7 @@ heading: Lorem Ipsum
 partners:
 - "/uploads/2018/11/15/favicon-512.png"
 services:
-- heading: foobar
+- heading: Foobar
   description: Lorem ipsum
   icon: "/uploads/2018/02/17/neurons.jpg"
 - description: Performing collaborative research and providing services to support
@@ -18,10 +18,12 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Code monkey like fritos
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc semper purus
+  lorem, id pretium purus tincidunt quis. Cras interdum velit vel ultrices accumsan.
+  Duis pretium malesuada porta.\n\nDonec dolor quam, euismod non laoreet vitae, vehicula
+  ac arcu. Pellentesque vitae eros felis. In hac habitasse platea dictumst. Curabitur
+  ipsum arcu, mattis ut velit eu, faucibus rhoncus purus. Fusce leo ex, lobortis et
+  semper in, placerat ut neque. Suspendisse a turpis ut ante placerat vehicula.  "
 hero_button:
   text: Do not click here!
   href: "/about"
