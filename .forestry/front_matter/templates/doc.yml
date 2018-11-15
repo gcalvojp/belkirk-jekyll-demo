@@ -29,5 +29,7 @@ fields:
   default: ''
 pages:
 - _docs/api/xyz.md
+- _docs/api/qux.md
 - _docs/foobar.md
+- _docs/api/missing.md
 - _docs/bar.md
