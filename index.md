@@ -26,7 +26,7 @@ hero_button:
   text: Do not click here!
   href: "/about"
 show_news: true
-show_staff: false
+show_staff: true
 menu:
   navigation:
     identifier: _index
