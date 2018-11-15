@@ -1,6 +1,6 @@
-title: Belkirk College of Engineering
-short_title: Belkirk
-description: Belkirk Demo Site for Forestry.io
+title: My awesome website
+short_title: AwesomeFoo
+description: Awesome website description
 baseurl:
 permalink: "/:path/"
 defaults:
@@ -22,8 +22,8 @@ collections:
   projects:
     output: true
     permalink: "/projects/:path/"
-# tag_page_layout: tag_page
-# tag_page_dir: tag
+tag_page_layout: tag_page
+tag_page_dir: tag
 jekyll-archives:
   enabled: all
   layout: "archive"
