@@ -3,7 +3,7 @@ title: Foo
 tags: []
 date: 2018-11-16 00:30:33 +0900
 sub_heading: Bar
-banner_image: "/uploads/2018/11/15/beauty.png"
+banner_image: "/assets/2018/11/15/beauty.png"
 slug: doc-foo
 
 ---

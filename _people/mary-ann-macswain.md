@@ -11,7 +11,7 @@ slug: ''
 sub_heading: Research Chair
 tags:
 - radssfdfdsfds fdfasdfd saffdssfd
-thumbnail: "/uploads/people/jeffrey-wegrzyn.jpg"
+thumbnail: "/assets/people/jeffrey-wegrzyn.jpg"
 layout: 'person'
 ---
 

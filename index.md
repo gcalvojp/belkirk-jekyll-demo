@@ -1,18 +1,18 @@
 ---
 title: Home
-banner_image: "/uploads/2018/11/15/autumn-leaf-on-still-water.jpg"
+banner_image: "/assets/2018/11/15/autumn-leaf-on-still-water.jpg"
 layout: landing-page
 heading: Lorem Ipsum
 partners:
-- "/uploads/2018/11/15/favicon-512.png"
+- "/assets/2018/11/15/favicon-512.png"
 services:
 - heading: Foobar
   description: Lorem ipsum lorem lorem ipsum iso facto
-  icon: "/uploads/2018/02/17/neurons.jpg"
+  icon: "/assets/2018/02/17/neurons.jpg"
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Bar
-  icon: "/uploads/2017/11/13/health.png"
+  icon: "/assets/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: Foo
