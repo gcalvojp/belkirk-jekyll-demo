@@ -2,38 +2,66 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url:
+
+# https://forestry.io/docs/settings/content-sections/
 sections:
-- type: heading
+
+- # CONTENT --------------------------------------------------------------------
+  type: heading
   label: Content
-- type: jekyll-posts
+
+- # POSTS
+  type: jekyll-posts
   label: Posts
   create: all
   templates:
   - posts
-- type: jekyll-pages
+
+- # PAGES
+  type: jekyll-pages
   label: Pages
   create: all
   templates:
   - landing-page
   - default
-- type: directory
-  path: _people
-  label: People
-  create: all
-  match: "*"
-  templates:
-  - person
-- type: directory
-  path: _projects
+
+- # PROJECTS
+  type: directory
   label: Projects
+  path: _projects
   create: all
   match: "*"
   templates:
   - project
-- type: document
-  path: _data/information.yml
+
+- # DOCUMENTATION
+  type: directory
+  label: Documentation
+  path: _docs
+  create: all
+  match: "*"
+  templates:
+  - doc
+
+- # INFO -----------------------------------------------------------------------
+  type: heading
+  label: Info
+
+- # PEOPLE
+  type: directory
+  label: People
+  path: _people
+  create: all
+  match: "*"
+  templates:
+  - person
+
+- # CONTACT INFORMATION
+  type: document
   label: Contact Information
+  path: _data/information.yml
+
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
