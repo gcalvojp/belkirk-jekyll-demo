@@ -28,6 +28,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- _docs/api/qux.md
-- _docs/bar.md
 - _docs/foobar.md
+- _docs/bar.md
