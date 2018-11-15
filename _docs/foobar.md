@@ -5,7 +5,6 @@ date: 2018-11-16 00:30:33 +0900
 sub_heading: Bar
 banner_image: "/uploads/2018/11/15/beauty.png"
 slug: doc-foo
-published: false
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum suscipit tortor ac magna rutrum porttitor a a purus. Morbi pellentesque tristique dui, nec tincidunt velit vehicula ac. Donec et maximus sem, in condimentum justo. Integer eget orci blandit, molestie tortor id, lacinia urna. Sed tincidunt egestas est a sagittis. Fusce suscipit, sem eget lobortis finibus, libero lectus eleifend orci, sed gravida lectus tellus id magna. Nam sagittis bibendum mollis. Fusce ullamcorper velit mi, nec imperdiet nisi posuere vitae. Integer congue vel augue sed porta. Nunc vitae nisi commodo magna convallis ultrices quis in ante. Quisque finibus turpis sit amet est dictum suscipit. Vivamus ipsum nulla, vehicula ac eros id, auctor convallis metus. Aenean quis mi eget purus faucibus convallis fringilla venenatis velit. Cras viverra, augue ut sollicitudin ornare, nunc ipsum feugiat justo, sit amet fringilla justo quam at metus.
