@@ -7,16 +7,16 @@ partners:
 - "/uploads/2018/11/15/favicon-512.png"
 services:
 - heading: Foobar
-  description: Lorem ipsum
+  description: Lorem ipsum lorem lorem ipsum iso facto
   icon: "/uploads/2018/02/17/neurons.jpg"
 - description: Performing collaborative research and providing services to support
     the Health Sector.
-  heading: Health
+  heading: Bar
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+  heading: Foo
+  icon: ''
 sub_heading: Code monkey like fritos
 textline: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc semper purus
   lorem, id pretium purus tincidunt quis. Cras interdum velit vel ultrices accumsan.
