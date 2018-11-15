@@ -1,7 +1,15 @@
 ---
-title: foobar
+title: Foo
 tags: []
 date: 2018-11-16 00:30:33 +0900
+sub_heading: Bar
+banner_image: "/uploads/2018/11/15/beauty.png"
+slug: doc-foo
 published: false
 
 ---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum suscipit tortor ac magna rutrum porttitor a a purus. Morbi pellentesque tristique dui, nec tincidunt velit vehicula ac. Donec et maximus sem, in condimentum justo. Integer eget orci blandit, molestie tortor id, lacinia urna. Sed tincidunt egestas est a sagittis. Fusce suscipit, sem eget lobortis finibus, libero lectus eleifend orci, sed gravida lectus tellus id magna. Nam sagittis bibendum mollis. Fusce ullamcorper velit mi, nec imperdiet nisi posuere vitae. Integer congue vel augue sed porta. Nunc vitae nisi commodo magna convallis ultrices quis in ante. Quisque finibus turpis sit amet est dictum suscipit. Vivamus ipsum nulla, vehicula ac eros id, auctor convallis metus. Aenean quis mi eget purus faucibus convallis fringilla venenatis velit. Cras viverra, augue ut sollicitudin ornare, nunc ipsum feugiat justo, sit amet fringilla justo quam at metus.
+
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec ex nunc, condimentum id dictum ut, blandit sit amet ante. Maecenas varius euismod tincidunt. Etiam dignissim hendrerit nulla eu convallis. Aenean placerat molestie felis ut vulputate. Proin lacinia odio vitae fringilla vestibulum. Fusce viverra, tortor nec tempor consectetur, odio justo lobortis velit, eu dapibus leo leo ac purus. In feugiat, urna non pellentesque tempus, velit risus eleifend quam, quis auctor libero massa quis metus. Cras varius consequat ultricies. Maecenas pharetra sem malesuada, vestibulum nulla sit amet, dapibus nulla. Praesent mollis blandit lorem, vitae elementum metus commodo eu. Nullam dignissim quam tellus, et bibendum mi faucibus vel. Quisque tempus aliquet diam nec facilisis. Vivamus tempus at velit eget sollicitudin. Curabitur laoreet sem sit amet purus commodo, eu aliquet metus facilisis. Maecenas mattis nibh in nibh venenatis congue.
+
+Sed tincidunt finibus est, ac fringilla urna. Etiam ut dui sed dui faucibus commodo in at lectus. Donec ac est sed quam faucibus sagittis in sed mi. Praesent ultricies orci vel diam commodo, a tincidunt orci fringilla. Maecenas feugiat dui in lorem maximus, non ullamcorper lacus sagittis. Etiam tristique dolor ut nisi cursus, vel sodales ante cursus. Nam suscipit porttitor nibh sed pharetra. Etiam metus tortor, venenatis molestie nulla vel, dapibus lobortis quam. Nullam sodales varius nulla, vitae vestibulum ipsum malesuada ut. Nulla facilisis mi et facilisis vehicula. Praesent ut metus viverra, varius neque eget, commodo tortor. Cras diam dui, sodales facilisis tincidunt sit amet, rhoncus quis urna.
