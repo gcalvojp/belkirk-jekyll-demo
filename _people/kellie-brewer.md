@@ -5,7 +5,7 @@ role:
 - advisor
 - staff
 sub_heading: Professor
-thumbnail: "/uploads/2017/11/14/alejandra-higareda-295605.jpg"
+thumbnail: "/uploads/people/alejandra-higareda.jpg"
 email: ''
 linkedin: ''
 layout: 'person'

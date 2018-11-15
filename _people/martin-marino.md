@@ -5,7 +5,7 @@ role:
 - advisor
 - board
 sub_heading: Advisor
-thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
+thumbnail: "/uploads/people/joseph-gonzalez.jpg"
 email: martin@belkirkcollege.com
 linkedin: ''
 layout: 'person'
