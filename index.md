@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2018/11/15/beauty.png"
+banner_image: "/uploads/2018/11/15/autumn-leaf-on-still-water.jpg"
 layout: landing-page
 heading: Lorem Ipsum
 partners:
