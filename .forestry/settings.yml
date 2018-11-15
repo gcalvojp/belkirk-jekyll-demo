@@ -31,6 +31,8 @@ sections:
   match: "*"
   templates:
   - doc
+- type: heading
+  label: Info
 - type: directory
   path: _people
   label: People
@@ -38,8 +40,6 @@ sections:
   match: "*"
   templates:
   - person
-- type: heading
-  label: Info
 - type: document
   path: _data/information.yml
   label: Contact Information
