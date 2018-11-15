@@ -28,5 +28,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _docs/api/xyz.md
 - _docs/foobar.md
 - _docs/bar.md
