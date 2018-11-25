@@ -5,11 +5,14 @@ banner_image: "/assets/2018/02/17/college-building.jpg"
 heading: About Belkirk
 sub_heading: Ora et Labora
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: |-
+  A multidisciplinary centre of experts who are essential to patient-oriented research.
+
+  oasp_dopa_odp**as**od
 publish_date: 2017-12-01 04:00:00 +0000
 show_staff: true
 partners:
+- "/assets/2018/11/25/clockworktangerine-128.png"
 - "/assets/2018/11/15/favicon-512.png"
 menu:
   footer:
